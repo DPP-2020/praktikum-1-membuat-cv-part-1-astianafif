@@ -7,5 +7,19 @@ hr{
 }
 span.a {
     display: inline ; /* the default for span */
-    
+    width: 20px;
+    height: 10px;
+    padding: 1px;
+    border: black solid;
+    background-color: black;
+    margin-left: 5px;
+  }
+  span.b {
+    display: inline ; /* the default for span */
+    width: 20px;
+    height: 10px;
+    padding: 1px;
+    border: black solid;
+    background-color: gold;
+    margin-left: 5px;
   }
