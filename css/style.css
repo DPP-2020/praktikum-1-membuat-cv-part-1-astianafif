@@ -6,10 +6,6 @@ hr{
     border-block-end-style: solid;
 }
 span.a {
-    display: inline; /* the default for span */
-    width: 100px;
-    height: 100px;
-    padding: 0px;
-    border: 1px solid blue;  
-    background-color: yellow; 
+    display: inline ; /* the default for span */
+    
   }
